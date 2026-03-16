@@ -4,6 +4,7 @@ def creeaza_tabla():
 
 def afiseaza(tabla):
     print("  0 1 2")
+
     for i in range(3):
         print(i, " ".join(tabla[i]))
     print()
