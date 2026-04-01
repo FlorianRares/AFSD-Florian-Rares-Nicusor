@@ -1,0 +1,7 @@
+========== BON FISCAL ==========
+espresso | cantitate: 2 | pret unitar: 8.00 lei | subtotal: 16.00 lei
+--------------------------------
+Total fara reducere: 16.00 lei
+Reducere: 0.00 lei
+Total final: 16.00 lei
+================================
