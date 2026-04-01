@@ -96,7 +96,8 @@ def cautare_fragment(glosar):
             print(f'Definiție: {informatii["definiție"]}')
             print(f'Categorie: {informatii["categorie"]}')
             print(f'Exemplu: {informatii["exemplu"]}')
-    else:
+            return
+
         print("Nu s-au găsit termeni care să conțină fragmentul introdus.")
 
 
